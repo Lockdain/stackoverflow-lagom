@@ -1,0 +1,8 @@
+# Project exclude paths
+/lagom-scala-api/target/
+/lagom-scala-api/target/scala-2.12/classes/
+/lagom-scala-impl/target/
+/lagom-scala-impl/target/scala-2.12/classes/
+/project/project/target/
+/project/target/
+/target/
